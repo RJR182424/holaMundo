@@ -16,7 +16,7 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(" HOLA PRROOOOOO!!!  ESTE SALUDO VA PARA H NADA MAS PARA LOS DEMAS, hola mundo :D ");
+        System.out.println("hola mundo :D este es mi primer aporte :D ");
     }
     
 }
